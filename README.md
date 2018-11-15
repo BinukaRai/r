@@ -1,14 +1,34 @@
-# introR_Nov2018
-Compilations for resources for R classes on November 2018, at Dhulikhel Hospital
+# intro to R workshop materials
+This repository is compilations for resources for R classes on November 2018, at Dhulikhel Hospital. We would like to thank all the R community without which it won't be possible to compile these materials. 
 
 This will Contains 
 - R Code 
 - Data for Practice 
 - Presentation
 
+# Software and Files
+
+## R and RStudio Installation Instructions
+
+This workshop assumes you have recent versions of R and RStudio - R 3.4 or 3.5 and RStudio 1.1.  [R and RStudio installation instructions](https://nuitrcs.github.io/workshop-logistics/install/r/).  
+
+## Workshop Materials
+
+How to get the materials depends on how you plan to access R and RStudio for the workshop.
+
+### On your laptop 
+
+If you installed R and RStudio on your laptop, download all of the materials to your laptop.  Click on the green Clone or Download button above, then download the repository as a ZIP file.  
+
+![github download](images/githubdownload.png)
+
+Find the downloaded .zip file on your computer, likely in your Downloads folder.  Unzip it - usually by double-clicking.  This will create a directory.  Move this somewhere on your computer where you'll be able to find it, like your Documents folder.  
+
+You should open the file `r_intro_nov2018.Rproj` in this folder to open the materials as an RStudio project.  Double-click on it from your Finder/File Explorer, or from RStudio, File menu > Open Project..., then navigate to the location of the file.
+
 ### using RStudio Cloud
 
-If you're using RStudio Cloud, go to https://rstudio.cloud and log in (or create an account if needed).  Click on Your Workspace in the left Menu.  Then make sure you are on the Projects tab, and click down arrow in the blue button for New Project.  Choose the option of New Project from a Git Repo.  The repo address is https://github.com/nuitrcs/r_intro_june2018.  
+If you're using RStudio Cloud, go to https://rstudio.cloud and log in (or create an account if needed).  Click on Your Workspace in the left Menu.  Then make sure you are on the Projects tab, and click down arrow in the blue button for New Project.  Choose the option of New Project from a Git Repo.  The repo address is https://github.com/prabinrs/introR_Nov2018.  
 
 ![rstudio cloud new project](images/rstudiocloud.png)
 
