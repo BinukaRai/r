@@ -10,7 +10,28 @@ This will Contains
 
 ## R and RStudio Installation Instructions
 
-This workshop assumes you have recent versions of R and RStudio - R 3.4 or 3.5 and RStudio 1.1.  [R and RStudio installation instructions](https://nuitrcs.github.io/workshop-logistics/install/r/).  
+This workshop assumes you have recent versions of R and RStudio. If you don't have R and RStudio Install from following links 
+
+###For Windows 
+R: https://cran.r-project.org/bin/windows/base/ 
+R Studio: https://download1.rstudio.org/RStudio-1.1.463.exe
+
+###For Mac
+R: https://cran.r-project.org/bin/macosx/R-3.5.1.pkg
+R Studio: https://download1.rstudio.org/RStudio-1.1.463.dmg
+
+### For Linux (ubuntu)
+R 
+```ubuntu
+# R with OpenBLAS
+sudo apt-get install r-base
+```
+RStudio 
+
+```ubuntu
+# R with OpenBLAS
+sudo apt-get install libopenblas-base r-base
+```
 
 ## Workshop Materials
 
