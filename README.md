@@ -12,12 +12,14 @@ This will Contains
 
 This workshop assumes you have recent versions of R and RStudio. If you don't have R and RStudio Install from following links 
 
-###For Windows 
+### For Windows 
 R: https://cran.r-project.org/bin/windows/base/ 
+
 R Studio: https://download1.rstudio.org/RStudio-1.1.463.exe
 
-###For Mac
+### For Mac
 R: https://cran.r-project.org/bin/macosx/R-3.5.1.pkg
+
 R Studio: https://download1.rstudio.org/RStudio-1.1.463.dmg
 
 ### For Linux (ubuntu)
@@ -81,6 +83,7 @@ The handouts for this workshop are from:
 [R Reference Card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf): lists many commonly used functions
 
 [RStudio Base R Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf): syntax reference
+
 [Population Health Data Science with R] (https://bookdown.org/medepi/phds/) : Open Book by Tomás J. Aragón
 
 Online reference for plotting for this workshop:
