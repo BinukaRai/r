@@ -75,16 +75,17 @@ REMEMBER: if downloading individual files from GitHub, you want to download the 
 
 ## Other Resources
 
-An extensive list of good R resources can be found in the [main R workshop repository](https://github.com/nuitrcs/rworkshops).
 
 The handouts for this workshop are from:
 
 [R Reference Card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf): lists many commonly used functions
 
 [RStudio Base R Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf): syntax reference
+[Population Health Data Science with R] (https://bookdown.org/medepi/phds/) : Open Book by Tomás J. Aragón
 
 Online reference for plotting for this workshop:
 
 [Base R Examples](https://dcgerard.github.io/stat234/base_r_cheatsheet.html) by David Gerard
 
 [R Base Graphics Cheat Sheet](http://publish.illinois.edu/johnrgallagher/files/2015/10/BaseGraphicsCheatsheet.pdf) by Joyce Robbins
+
