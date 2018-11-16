@@ -1,5 +1,5 @@
 # intro to R workshop materials
-This repository is compilations for resources for R classes on November 2018, at Dhulikhel Hospital. We would like to thank all the R community without which it won't be possible to compile these materials. 
+This repository is compilations of resources for R classes on November 2018, at Dhulikhel Hospital. We would like to thank all the R community without which it won't be possible to compile these materials. 
 
 This will Contains 
 - R Code 
