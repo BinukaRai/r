@@ -84,7 +84,7 @@ The handouts for this workshop are from:
 
 [RStudio Base R Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf): syntax reference
 
-[Population Health Data Science with R] (https://bookdown.org/medepi/phds/) : Open Book by Tomás J. Aragón
+[Population Health Data Science with R](https://bookdown.org/medepi/phds/) : Open Book by Tomás J. Aragón
 
 Online reference for plotting for this workshop:
 
